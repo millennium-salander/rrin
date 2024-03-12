@@ -1,0 +1,15 @@
+{
+    "name": "RinRin",
+    "symbol": "RR",
+    "description": "Nani?",
+    "image": "https://github.com/millennium-salander/rrin/blob/main/rinrin.png",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://github.com/millennium-salander/rrin/blob/main/rinrin.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
